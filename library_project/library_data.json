@@ -1,0 +1,302 @@
+[
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "isbn": "978000001",
+    "available": true
+  },
+  {
+    "title": "Animal Farm",
+    "author": "George Orwell",
+    "isbn": "978000002",
+    "available": true
+  },
+  {
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "isbn": "978000003",
+    "available": true
+  },
+  {
+    "title": "Foundation",
+    "author": "Isaac Asimov",
+    "isbn": "978000004",
+    "available": true
+  },
+  {
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "isbn": "978000005",
+    "available": true
+  },
+  {
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "isbn": "978000006",
+    "available": true
+  },
+  {
+    "title": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "isbn": "978000007",
+    "available": true
+  },
+  {
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "isbn": "978000008",
+    "available": true
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "isbn": "978000009",
+    "available": true
+  },
+  {
+    "title": "Moby Dick",
+    "author": "Herman Melville",
+    "isbn": "978000010",
+    "available": true
+  },
+  {
+    "title": "Book 11",
+    "author": "Author 11",
+    "isbn": "978000011",
+    "available": true
+  },
+  {
+    "title": "Book 12",
+    "author": "Author 12",
+    "isbn": "978000012",
+    "available": true
+  },
+  {
+    "title": "Book 13",
+    "author": "Author 13",
+    "isbn": "978000013",
+    "available": true
+  },
+  {
+    "title": "Book 14",
+    "author": "Author 14",
+    "isbn": "978000014",
+    "available": true
+  },
+  {
+    "title": "Book 15",
+    "author": "Author 15",
+    "isbn": "978000015",
+    "available": true
+  },
+  {
+    "title": "Book 16",
+    "author": "Author 16",
+    "isbn": "978000016",
+    "available": true
+  },
+  {
+    "title": "Book 17",
+    "author": "Author 17",
+    "isbn": "978000017",
+    "available": true
+  },
+  {
+    "title": "Book 18",
+    "author": "Author 18",
+    "isbn": "978000018",
+    "available": true
+  },
+  {
+    "title": "Book 19",
+    "author": "Author 19",
+    "isbn": "978000019",
+    "available": true
+  },
+  {
+    "title": "Book 20",
+    "author": "Author 20",
+    "isbn": "978000020",
+    "available": true
+  },
+  {
+    "title": "Book 21",
+    "author": "Author 21",
+    "isbn": "978000021",
+    "available": true
+  },
+  {
+    "title": "Book 22",
+    "author": "Author 22",
+    "isbn": "978000022",
+    "available": true
+  },
+  {
+    "title": "Book 23",
+    "author": "Author 23",
+    "isbn": "978000023",
+    "available": true
+  },
+  {
+    "title": "Book 24",
+    "author": "Author 24",
+    "isbn": "978000024",
+    "available": true
+  },
+  {
+    "title": "Book 25",
+    "author": "Author 25",
+    "isbn": "978000025",
+    "available": true
+  },
+  {
+    "title": "Book 26",
+    "author": "Author 26",
+    "isbn": "978000026",
+    "available": true
+  },
+  {
+    "title": "Book 27",
+    "author": "Author 27",
+    "isbn": "978000027",
+    "available": true
+  },
+  {
+    "title": "Book 28",
+    "author": "Author 28",
+    "isbn": "978000028",
+    "available": true
+  },
+  {
+    "title": "Book 29",
+    "author": "Author 29",
+    "isbn": "978000029",
+    "available": true
+  },
+  {
+    "title": "Book 30",
+    "author": "Author 30",
+    "isbn": "978000030",
+    "available": true
+  },
+  {
+    "title": "Book 31",
+    "author": "Author 31",
+    "isbn": "978000031",
+    "available": true
+  },
+  {
+    "title": "Book 32",
+    "author": "Author 32",
+    "isbn": "978000032",
+    "available": true
+  },
+  {
+    "title": "Book 33",
+    "author": "Author 33",
+    "isbn": "978000033",
+    "available": true
+  },
+  {
+    "title": "Book 34",
+    "author": "Author 34",
+    "isbn": "978000034",
+    "available": true
+  },
+  {
+    "title": "Book 35",
+    "author": "Author 35",
+    "isbn": "978000035",
+    "available": true
+  },
+  {
+    "title": "Book 36",
+    "author": "Author 36",
+    "isbn": "978000036",
+    "available": true
+  },
+  {
+    "title": "Book 37",
+    "author": "Author 37",
+    "isbn": "978000037",
+    "available": true
+  },
+  {
+    "title": "Book 38",
+    "author": "Author 38",
+    "isbn": "978000038",
+    "available": true
+  },
+  {
+    "title": "Book 39",
+    "author": "Author 39",
+    "isbn": "978000039",
+    "available": true
+  },
+  {
+    "title": "Book 40",
+    "author": "Author 40",
+    "isbn": "978000040",
+    "available": true
+  },
+  {
+    "title": "Book 41",
+    "author": "Author 41",
+    "isbn": "978000041",
+    "available": true
+  },
+  {
+    "title": "Book 42",
+    "author": "Author 42",
+    "isbn": "978000042",
+    "available": true
+  },
+  {
+    "title": "Book 43",
+    "author": "Author 43",
+    "isbn": "978000043",
+    "available": true
+  },
+  {
+    "title": "Book 44",
+    "author": "Author 44",
+    "isbn": "978000044",
+    "available": true
+  },
+  {
+    "title": "Book 45",
+    "author": "Author 45",
+    "isbn": "978000045",
+    "available": true
+  },
+  {
+    "title": "Book 46",
+    "author": "Author 46",
+    "isbn": "978000046",
+    "available": true
+  },
+  {
+    "title": "Book 47",
+    "author": "Author 47",
+    "isbn": "978000047",
+    "available": true
+  },
+  {
+    "title": "Book 48",
+    "author": "Author 48",
+    "isbn": "978000048",
+    "available": true
+  },
+  {
+    "title": "Book 49",
+    "author": "Author 49",
+    "isbn": "978000049",
+    "available": true
+  },
+  {
+    "title": "Book 50",
+    "author": "Author 50",
+    "isbn": "978000050",
+    "available": true
+  }
+]
